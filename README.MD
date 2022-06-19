@@ -21,3 +21,5 @@ I will be doing the preseed method via USB for the Mac Pro. Rest of my hosts wil
 - Build USB preseed flow for Mac Pro
 - Set-up PXE preseed flow for the TS140 and HP ML110 Gen9
 - Build Ansible playbooks for post-install set-up of proxmox
+
+![Test](diagram.jpg)
